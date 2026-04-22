@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Louisiana, US
 
-> Free BeamStation sample export with 285 rows and masked direct-contact fields.
+> Free BeamStation sample export with 227 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `896299` |
 | Location | Louisiana |
 | Category | Restaurants |
-| Full dataset size | 2,852 records |
-| Free sample size | 285 records (9.99%) |
-| Last export | 2026-04-14T23:41:45.096939+00:00 |
+| Full dataset size | 2,279 records |
+| Free sample size | 227 records (9.96%) |
+| Last export | 2026-04-22T03:25:12.656459+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-louisiana-us-sample-896299/releases/download/sample-latest/beamstation_896299_restaurants-us-la_SAMPLE_DIST.csv) |
 
 ## What is in this sample
