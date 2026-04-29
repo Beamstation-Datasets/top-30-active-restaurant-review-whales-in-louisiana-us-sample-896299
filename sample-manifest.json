@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e189e260-15d0-4aa0-9657-f90f2b866878",
+  "export_job_id": "21bdef69-e263-4a32-a36a-c5500463f81a",
   "id_short": 896299,
-  "published_at": "2026-04-22T19:06:24Z",
+  "published_at": "2026-04-29T07:14:20Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-louisiana-us-sample-896299",
   "sample_asset_name": "beamstation_896299_restaurants-us-la_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/896299/beamstation_896299_restaurants-us-la_SAMPLE_DIST.csv",
-  "sample_records": 227,
-  "sample_sha256": "50969d82af7ab5693636fe6d6d123522e354f645f59e8b048eb594dcb63b441d",
-  "sample_size_bytes": 929112,
-  "total_records": 2279
+  "sample_records": 24,
+  "sample_sha256": "b6436923d83077b436a65d40679d7ac4c91f6328c17cc83cedb52e8e9bb280fe",
+  "sample_size_bytes": 112806,
+  "total_records": 249
 }
